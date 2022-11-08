@@ -1,0 +1,15 @@
+E:\my game\Visual studio 2022\source\repos C#\HW13\HW13\bin\Debug\net6.0\HW13.exe
+E:\my game\Visual studio 2022\source\repos C#\HW13\HW13\bin\Debug\net6.0\HW13.deps.json
+E:\my game\Visual studio 2022\source\repos C#\HW13\HW13\bin\Debug\net6.0\HW13.runtimeconfig.json
+E:\my game\Visual studio 2022\source\repos C#\HW13\HW13\bin\Debug\net6.0\HW13.dll
+E:\my game\Visual studio 2022\source\repos C#\HW13\HW13\bin\Debug\net6.0\HW13.pdb
+E:\my game\Visual studio 2022\source\repos C#\HW13\HW13\obj\Debug\net6.0\HW13.csproj.AssemblyReference.cache
+E:\my game\Visual studio 2022\source\repos C#\HW13\HW13\obj\Debug\net6.0\HW13.GeneratedMSBuildEditorConfig.editorconfig
+E:\my game\Visual studio 2022\source\repos C#\HW13\HW13\obj\Debug\net6.0\HW13.AssemblyInfoInputs.cache
+E:\my game\Visual studio 2022\source\repos C#\HW13\HW13\obj\Debug\net6.0\HW13.AssemblyInfo.cs
+E:\my game\Visual studio 2022\source\repos C#\HW13\HW13\obj\Debug\net6.0\HW13.csproj.CoreCompileInputs.cache
+E:\my game\Visual studio 2022\source\repos C#\HW13\HW13\obj\Debug\net6.0\HW13.dll
+E:\my game\Visual studio 2022\source\repos C#\HW13\HW13\obj\Debug\net6.0\refint\HW13.dll
+E:\my game\Visual studio 2022\source\repos C#\HW13\HW13\obj\Debug\net6.0\HW13.pdb
+E:\my game\Visual studio 2022\source\repos C#\HW13\HW13\obj\Debug\net6.0\HW13.genruntimeconfig.cache
+E:\my game\Visual studio 2022\source\repos C#\HW13\HW13\obj\Debug\net6.0\ref\HW13.dll
