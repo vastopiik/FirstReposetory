@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\my game\\Visual studio 2022\\source\\repos C#\\HW13\\HW13\\HW13.csproj": {}
+    "E:\\IT\\Git\\FirstReposetory\\HW13.csproj": {}
   },
   "projects": {
-    "E:\\my game\\Visual studio 2022\\source\\repos C#\\HW13\\HW13\\HW13.csproj": {
+    "E:\\IT\\Git\\FirstReposetory\\HW13.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\my game\\Visual studio 2022\\source\\repos C#\\HW13\\HW13\\HW13.csproj",
+        "projectUniqueName": "E:\\IT\\Git\\FirstReposetory\\HW13.csproj",
         "projectName": "HW13",
-        "projectPath": "E:\\my game\\Visual studio 2022\\source\\repos C#\\HW13\\HW13\\HW13.csproj",
+        "projectPath": "E:\\IT\\Git\\FirstReposetory\\HW13.csproj",
         "packagesPath": "C:\\Users\\vadmy\\.nuget\\packages\\",
-        "outputPath": "E:\\my game\\Visual studio 2022\\source\\repos C#\\HW13\\HW13\\obj\\",
+        "outputPath": "E:\\IT\\Git\\FirstReposetory\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vadmy\\AppData\\Roaming\\NuGet\\NuGet.Config",
