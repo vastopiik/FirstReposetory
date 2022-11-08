@@ -28,4 +28,3 @@ DateTime dateTime = date.ToDate();
 double d = 4.6;
 int n2 = d.ToInt();
 
-Console.WriteLine("dfаfdsfs");
