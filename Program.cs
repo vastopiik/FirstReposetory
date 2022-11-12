@@ -15,7 +15,7 @@ Predicate<int> predicate = s.P1;
 predicate += s.P2;
 predicate += s.P3;
 
-Dictionary<int, double> map = new Dictionary<int, double>();
+List<int> list = new List<int>();
 
 
 bool b = true;
