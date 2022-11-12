@@ -15,8 +15,7 @@ Predicate<int> predicate = s.P1;
 predicate += s.P2;
 predicate += s.P3;
 
-
-
+List<int> list = new List<int>();
 
 
 bool b = true;
@@ -28,3 +27,4 @@ DateTime dateTime = date.ToDate();
 double d = 4.6;
 int n2 = d.ToInt();
 
+Console.WriteLine("New branch 2");
